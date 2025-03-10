@@ -1,5 +1,5 @@
 [Mesh]
-    file = 'SimpleMesh.msh'
+    file = 'step1.msh'
 []
 
 [GlobalParams]
